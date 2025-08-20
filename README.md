@@ -1,2 +1,2 @@
 # Figma_project_Amirthavarshni
-It is a goodreads redesign app , for UI/UX laboratory
+figma project link - https://www.figma.com/design/lndWqLV1Lf31ZkB6qF7LFE/goodreads_redisgn?node-id=35-33&t=JLh6LxReFZd12S2q-1
